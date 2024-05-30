@@ -1,0 +1,110 @@
+﻿<Window x:Class="Tema2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tema2.ViewModels"
+        mc:Ignorable="d"
+        Title="Checkers" Height="800" Width="1000"
+        ResizeMode="NoResize" WindowStartupLocation="CenterScreen"
+        Background="LightCyan">
+    <Window.DataContext>
+        <local:JocVM/>
+    </Window.DataContext>
+    <Grid>
+        <ItemsControl x:Name="Grid" ItemsSource="{Binding Board}" Margin="15,100,15,15" >
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <ItemsControl ItemsSource="{Binding}">
+                        <ItemsControl.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <StackPanel Orientation="Horizontal" />
+                            </ItemsPanelTemplate>
+                        </ItemsControl.ItemsPanel>
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <Grid>
+                                    <Border Width="75" Height="75" BorderThickness="1" BorderBrush="#000000">
+                                        <Image Source="{Binding GenericSquare.Texture}" Stretch="UniformToFill"/>
+                                    </Border>
+                                    <Button Command="{Binding ClickPieceCommand}" CommandParameter="{Binding GenericSquare}">
+                                        <Button.Template>
+                                            <ControlTemplate>
+                                                <Image Source="{Binding GenericSquare.Piece.Texture}" Height="70" Width="70"/>
+                                            </ControlTemplate>
+                                        </Button.Template>
+                                    </Button>
+                                    <Button Command="{Binding MovePieceCommand}" CommandParameter="{Binding GenericSquare}">
+                                        <Button.Template>
+                                            <ControlTemplate>
+                                                <Image Source="{Binding GenericSquare.LegalSquareSymbol}" Height="73" Width="73"/>
+                                            </ControlTemplate>
+                                        </Button.Template>
+                                    </Button>
+                                </Grid>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+        <Menu VerticalAlignment="Top">
+
+            <MenuItem Header="file" Background="LavenderBlush" Foreground="DimGray" FontSize="16" FontFamily="Copperplate Gothic">
+                <MenuItem Header="new" Command="{Binding Interactions.ResetCommand}" Background="LavenderBlush" Foreground="DimGray" FontSize="16"/>
+                <MenuItem Header="save" Command="{Binding Interactions.SaveCommand}" Background="LavenderBlush" Foreground="DimGray" FontSize="16"/>
+                <MenuItem Header="open" Command="{Binding Interactions.LoadCommand}" Background="LavenderBlush" Foreground="DimGray" FontSize="16"/>
+                <MenuItem Header="statistics" Command="{Binding StatisticsVM.ShowStatisticsCommand}" Background="LavenderBlush" Foreground="DimGray" FontSize="16"/>
+
+            </MenuItem>
+
+            <MenuItem Header="help" Background="LavenderBlush" Foreground="DimGray" FontSize="16" FontFamily="Copperplate Gothic">
+                <MenuItem Header="about" Command="{Binding ShowAboutInfoCommand}"/>
+            </MenuItem>
+        </Menu>
+        <StackPanel HorizontalAlignment="Left" VerticalAlignment="Top" Margin="716,200,0,0">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Left">
+                <TextBlock Text="turn" 
+               FontFamily="Copperplate Gothic" 
+               FontSize="30" 
+               Foreground="SlateGray"
+               VerticalAlignment="Center" />
+
+                <Image Height="60" 
+           Width="60"
+           Margin="10,0,0,0" Source="{Binding PlayerTurnVM.PlayerIcon.TurnImage}" 
+           VerticalAlignment="Center" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Margin="0,76,0,0">
+                <Image Height="60" 
+               Width="60"
+               Source="{Binding WHITE_PIECE}" />
+                <TextBlock Text="{Binding WinnerVM.WhiteRemaining}" 
+                   FontFamily="Copperplate Gothic" 
+                   FontSize="30" 
+                   Foreground="SlateGray"
+                   Margin="20,0,0,0" Height="40" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Image Height="60" 
+               Width="60"
+               Source="{Binding RED_PIECE}" />
+                <TextBlock Text="{Binding WinnerVM.RedRemaining}" 
+                   FontFamily="Copperplate Gothic" 
+                   FontSize="30" 
+                   Foreground="SlateGray"
+                   Margin="20,0,0,0" Height="40" />
+            </StackPanel>
+        </StackPanel>
+
+        <TextBlock HorizontalAlignment="Left" Margin="693,152,0,-131" 
+                   Text="CHECKERS" 
+                   FontFamily="Copperplate Gothic"
+                   TextWrapping="Wrap"
+                   FontSize="30"
+                   Foreground="SlateGray"
+                   FontWeight="DemiBold">
+
+        </TextBlock>
+    </Grid>
+</Window>

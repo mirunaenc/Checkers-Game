@@ -1,0 +1,34 @@
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Tema2\Tema2\Tema2\obj\Debug\Tema2.csproj.AssemblyReference.cache
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Tema2\Tema2\Tema2\obj\Debug\App.g.cs
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Tema2\Tema2\Tema2\obj\Debug\Tema2_MarkupCompile.cache
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Tema2\Tema2\Tema2\bin\Debug\Tema2.exe.config
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Tema2\Tema2\Tema2\bin\Debug\Tema2.exe
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Tema2\Tema2\Tema2\bin\Debug\Tema2.pdb
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Tema2\Tema2\Tema2\obj\Debug\Tema2.g.resources
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Tema2\Tema2\Tema2\obj\Debug\Tema2.Properties.Resources.resources
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Tema2\Tema2\Tema2\obj\Debug\Tema2.csproj.GenerateResource.cache
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Tema2\Tema2\Tema2\obj\Debug\Tema2.csproj.CoreCompileInputs.cache
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Tema2\Tema2\Tema2\obj\Debug\Tema2.exe
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Tema2\Tema2\Tema2\obj\Debug\Tema2.pdb
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Tema2\Tema2\Tema2\obj\Debug\Views\MainWindow.g.cs
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Tema2\Tema2\Tema2\obj\Debug\Views\MainWindow.baml
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Tema2\Tema2\Tema2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Tema2\Tema2\Tema2\obj\Debug\Tema2_MarkupCompile.lref
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Tema2\Tema2\Tema2\obj\Debug\App.baml
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Backup tema2 - bun, de prezentat\Tema2\Tema2\Tema2\bin\Debug\Tema2.exe.config
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Backup tema2 - bun, de prezentat\Tema2\Tema2\Tema2\bin\Debug\Tema2.exe
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Backup tema2 - bun, de prezentat\Tema2\Tema2\Tema2\bin\Debug\Tema2.pdb
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Backup tema2 - bun, de prezentat\Tema2\Tema2\Tema2\obj\Debug\Tema2.csproj.AssemblyReference.cache
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Backup tema2 - bun, de prezentat\Tema2\Tema2\Tema2\obj\Debug\Views\MainWindow.g.cs
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Backup tema2 - bun, de prezentat\Tema2\Tema2\Tema2\obj\Debug\App.g.cs
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Backup tema2 - bun, de prezentat\Tema2\Tema2\Tema2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Backup tema2 - bun, de prezentat\Tema2\Tema2\Tema2\obj\Debug\Tema2_MarkupCompile.cache
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Backup tema2 - bun, de prezentat\Tema2\Tema2\Tema2\obj\Debug\Tema2_MarkupCompile.lref
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Backup tema2 - bun, de prezentat\Tema2\Tema2\Tema2\obj\Debug\App.baml
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Backup tema2 - bun, de prezentat\Tema2\Tema2\Tema2\obj\Debug\Views\MainWindow.baml
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Backup tema2 - bun, de prezentat\Tema2\Tema2\Tema2\obj\Debug\Tema2.g.resources
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Backup tema2 - bun, de prezentat\Tema2\Tema2\Tema2\obj\Debug\Tema2.Properties.Resources.resources
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Backup tema2 - bun, de prezentat\Tema2\Tema2\Tema2\obj\Debug\Tema2.csproj.GenerateResource.cache
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Backup tema2 - bun, de prezentat\Tema2\Tema2\Tema2\obj\Debug\Tema2.csproj.CoreCompileInputs.cache
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Backup tema2 - bun, de prezentat\Tema2\Tema2\Tema2\obj\Debug\Tema2.exe
+D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Backup tema2 - bun, de prezentat\Tema2\Tema2\Tema2\obj\Debug\Tema2.pdb

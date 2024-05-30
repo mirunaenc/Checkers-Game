@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|d:\\facultate\\anul ii\\semestrul ii\\mvp\\teme\\backup tema2 - bun, de prezentat\\tema2\\tema2\\viewmodels\\gamestatisticsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|solutionrelative:tema2\\viewmodels\\gamestatisticsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|d:\\facultate\\anul ii\\semestrul ii\\mvp\\teme\\backup tema2 - bun, de prezentat\\tema2\\tema2\\viewmodels\\jocvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|solutionrelative:tema2\\viewmodels\\jocvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|d:\\facultate\\anul ii\\semestrul ii\\mvp\\teme\\backup tema2 - bun, de prezentat\\tema2\\tema2\\viewmodels\\buttoninteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|solutionrelative:tema2\\viewmodels\\buttoninteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|d:\\facultate\\anul ii\\semestrul ii\\mvp\\teme\\backup tema2 - bun, de prezentat\\tema2\\tema2\\viewmodels\\basenotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|solutionrelative:tema2\\viewmodels\\basenotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|d:\\facultate\\anul ii\\semestrul ii\\mvp\\teme\\backup tema2 - bun, de prezentat\\tema2\\tema2\\viewmodels\\gamesquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|solutionrelative:tema2\\viewmodels\\gamesquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|d:\\facultate\\anul ii\\semestrul ii\\mvp\\teme\\backup tema2 - bun, de prezentat\\tema2\\tema2\\models\\winner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|solutionrelative:tema2\\models\\winner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|d:\\facultate\\anul ii\\semestrul ii\\mvp\\teme\\backup tema2 - bun, de prezentat\\tema2\\tema2\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|solutionrelative:tema2\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|d:\\facultate\\anul ii\\semestrul ii\\mvp\\teme\\backup tema2 - bun, de prezentat\\tema2\\tema2\\models\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|solutionrelative:tema2\\models\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|d:\\facultate\\anul ii\\semestrul ii\\mvp\\teme\\backup tema2 - bun, de prezentat\\tema2\\tema2\\models\\gamestatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|solutionrelative:tema2\\models\\gamestatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|d:\\facultate\\anul ii\\semestrul ii\\mvp\\teme\\backup tema2 - bun, de prezentat\\tema2\\tema2\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|solutionrelative:tema2\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|d:\\facultate\\anul ii\\semestrul ii\\mvp\\teme\\backup tema2 - bun, de prezentat\\tema2\\tema2\\services\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|solutionrelative:tema2\\services\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|d:\\facultate\\anul ii\\semestrul ii\\mvp\\teme\\backup tema2 - bun, de prezentat\\tema2\\tema2\\services\\gamebusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|solutionrelative:tema2\\services\\gamebusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|d:\\facultate\\anul ii\\semestrul ii\\mvp\\teme\\backup tema2 - bun, de prezentat\\tema2\\tema2\\commands\\simplecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|solutionrelative:tema2\\commands\\simplecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|d:\\facultate\\anul ii\\semestrul ii\\mvp\\teme\\backup tema2 - bun, de prezentat\\tema2\\tema2\\viewmodels\\winnervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|solutionrelative:tema2\\viewmodels\\winnervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|d:\\facultate\\anul ii\\semestrul ii\\mvp\\teme\\backup tema2 - bun, de prezentat\\tema2\\tema2\\viewmodels\\playervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248EA17B-7281-4AEF-81B3-E67A5BF7CA5E}|Tema2\\Tema2.csproj|solutionrelative:tema2\\viewmodels\\playervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JocVM.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\ViewModels\\JocVM.cs",
+              "RelativeDocumentMoniker": "Tema2\\ViewModels\\JocVM.cs",
+              "ToolTip": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\ViewModels\\JocVM.cs",
+              "RelativeToolTip": "Tema2\\ViewModels\\JocVM.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAiwDAAAACaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:49:32.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Winner.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\Models\\Winner.cs",
+              "RelativeDocumentMoniker": "Tema2\\Models\\Winner.cs",
+              "ToolTip": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\Models\\Winner.cs",
+              "RelativeToolTip": "Tema2\\Models\\Winner.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:46:19.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "Tema2\\Models\\Player.cs",
+              "ToolTip": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\Models\\Player.cs",
+              "RelativeToolTip": "Tema2\\Models\\Player.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:46:17.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Piece.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\Models\\Piece.cs",
+              "RelativeDocumentMoniker": "Tema2\\Models\\Piece.cs",
+              "ToolTip": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\Models\\Piece.cs",
+              "RelativeToolTip": "Tema2\\Models\\Piece.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:46:14.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameStatistics.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\Models\\GameStatistics.cs",
+              "RelativeDocumentMoniker": "Tema2\\Models\\GameStatistics.cs",
+              "ToolTip": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\Models\\GameStatistics.cs",
+              "RelativeToolTip": "Tema2\\Models\\GameStatistics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:46:11.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Board.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\Models\\Board.cs",
+              "RelativeDocumentMoniker": "Tema2\\Models\\Board.cs",
+              "ToolTip": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\Models\\Board.cs",
+              "RelativeToolTip": "Tema2\\Models\\Board.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:46:08.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameStatisticsVM.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\ViewModels\\GameStatisticsVM.cs",
+              "RelativeDocumentMoniker": "Tema2\\ViewModels\\GameStatisticsVM.cs",
+              "ToolTip": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\ViewModels\\GameStatisticsVM.cs",
+              "RelativeToolTip": "Tema2\\ViewModels\\GameStatisticsVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:45:54.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameSquare.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\ViewModels\\GameSquare.cs",
+              "RelativeDocumentMoniker": "Tema2\\ViewModels\\GameSquare.cs",
+              "ToolTip": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\ViewModels\\GameSquare.cs",
+              "RelativeToolTip": "Tema2\\ViewModels\\GameSquare.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:45:52.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseNotification.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\ViewModels\\BaseNotification.cs",
+              "RelativeDocumentMoniker": "Tema2\\ViewModels\\BaseNotification.cs",
+              "ToolTip": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\ViewModels\\BaseNotification.cs",
+              "RelativeToolTip": "Tema2\\ViewModels\\BaseNotification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:45:50.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ButtonInteraction.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\ViewModels\\ButtonInteraction.cs",
+              "RelativeDocumentMoniker": "Tema2\\ViewModels\\ButtonInteraction.cs",
+              "ToolTip": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\ViewModels\\ButtonInteraction.cs",
+              "RelativeToolTip": "Tema2\\ViewModels\\ButtonInteraction.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:45:51.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\Services\\Helper.cs",
+              "RelativeDocumentMoniker": "Tema2\\Services\\Helper.cs",
+              "ToolTip": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\Services\\Helper.cs",
+              "RelativeToolTip": "Tema2\\Services\\Helper.cs",
+              "ViewState": "AQIAANwBAAAAAAAAAAAkwLYBAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:46:30.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WinnerVM.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\ViewModels\\WinnerVM.cs",
+              "RelativeDocumentMoniker": "Tema2\\ViewModels\\WinnerVM.cs",
+              "ToolTip": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\ViewModels\\WinnerVM.cs",
+              "RelativeToolTip": "Tema2\\ViewModels\\WinnerVM.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:46:00.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SimpleCommand.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\Commands\\SimpleCommand.cs",
+              "RelativeDocumentMoniker": "Tema2\\Commands\\SimpleCommand.cs",
+              "ToolTip": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\Commands\\SimpleCommand.cs",
+              "RelativeToolTip": "Tema2\\Commands\\SimpleCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:46:06.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameBusinessLogic.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\Services\\GameBusinessLogic.cs",
+              "RelativeDocumentMoniker": "Tema2\\Services\\GameBusinessLogic.cs",
+              "ToolTip": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\Services\\GameBusinessLogic.cs",
+              "RelativeToolTip": "Tema2\\Services\\GameBusinessLogic.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAA3wLoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:46:25.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayerVM.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\ViewModels\\PlayerVM.cs",
+              "RelativeDocumentMoniker": "Tema2\\ViewModels\\PlayerVM.cs",
+              "ToolTip": "D:\\FACULTATE\\Anul II\\Semestrul II\\MVP\\Teme\\Backup tema2 - bun, de prezentat\\Tema2\\Tema2\\ViewModels\\PlayerVM.cs",
+              "RelativeToolTip": "Tema2\\ViewModels\\PlayerVM.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:45:59.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1073,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

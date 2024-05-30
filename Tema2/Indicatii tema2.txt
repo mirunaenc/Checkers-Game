@@ -1,0 +1,8 @@
+Indicatii tema2
+
+* ViewModel - clasa creata de noi(simpla)
+* logica aplicatiei va fi in modulul services
+* folosire de comenzi
+* oricare jucator poate incepe jocul 
+* colorare variante disponibile pentru sarituri
+* save game - sa-mi pot alege jocul pe care vreau sa-l deschid(dupa nume)

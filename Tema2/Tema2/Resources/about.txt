@@ -1,0 +1,8 @@
+﻿                                                    Jocul de Dame
+
+Creat de: Encună Miruna
+Email instituțional: miruna.encuna@student.unitbv.ro
+Grupa: 10LF321
+
+Descriere:
+Jocul de dame este un joc de strategie între doi jucători, care alternează mișcările pe o tablă de joc pătrată. Scopul jocului este de a captura toate piesele adversarului sau de a bloca mișcările acestuia.
