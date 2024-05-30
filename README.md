@@ -21,12 +21,6 @@ This project involves creating a checkers game application using C# and WPF, fol
 - **Configuration**: The game can be started with different configurations, such as enabling kings, setting up scenarios for testing the endgame, and enabling multiple jumps.
 - **Help and About**: The application includes a Help menu with an About section that contains the developer's name, institutional email, group, and a brief description of the game.
 
-## User Interface
-- **Main Board**: Displays the checkers board and the current game state.
-- **Menus**: 
-  - **File Menu**: Options for starting a new game, saving the current game, loading a saved game, enabling multiple jumps, and viewing statistics.
-  - **Help Menu**: Contains an About section with information about the developer and the game.
-
 ## Technologies Used
 - **Programming Language**: C#
 - **Framework**: .NET Framework
